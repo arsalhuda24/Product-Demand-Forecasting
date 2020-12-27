@@ -9,3 +9,5 @@ The data used here is taken from Kaggle's Store Item Demand Forecasting Challeng
 
 ## Exploratory Data Analysis (EDA) 
 ### Yearly growth of sales per store
+
+![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/yearly_growth_store.png)
