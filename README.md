@@ -11,3 +11,7 @@ The data used here is taken from Kaggle's Store Item Demand Forecasting Challeng
 ### Yearly growth of sales per store
 
 ![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/yearly_growth_store.png)
+
+## Modeling 
+### 1) LSTM-Autoencoder 
+![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/LSTM-autoencoder.png)
