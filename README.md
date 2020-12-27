@@ -4,4 +4,4 @@ In this repo we will build a multivariate time series model using different mach
 
 ## Time Series Analysis
 
-![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/Trend.bmp)
+![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/Trend.png)
