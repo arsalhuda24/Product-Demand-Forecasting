@@ -1,5 +1,6 @@
 # Product sale forecasting 
-Forecasting sales of different items accross multiple stores using deep learning techniques
+Realtime sales forecasting of different items accross multiple stores using deep learning techniques
+
 ![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/model_deployment.png)
 
 ## Objective
