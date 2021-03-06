@@ -1,5 +1,5 @@
-# Fraud Detection
-This repository contains end-end machine learning based solution for detecting fraudulent transactions
+# Product sale forecasting 
+Forecasting sales of different items accross multiple stores using deep learning techniques
 ## Objective
 In this repo we will build a multivariate time series model using different machine/deep learning techniques to forecast multiple products in different stores. 
 
