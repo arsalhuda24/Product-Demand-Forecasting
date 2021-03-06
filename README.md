@@ -1,4 +1,7 @@
 # Product-Demand-Forecasting
+
+This repository contains end-end machine learning based solution for detecting fraudulent transactions
+
 ## Objective
 In this repo we will build a multivariate time series model using different machine/deep learning techniques to forecast multiple products in different stores. 
 
