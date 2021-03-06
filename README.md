@@ -1,5 +1,7 @@
 # Product sale forecasting 
 Forecasting sales of different items accross multiple stores using deep learning techniques
+![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/deployment.png)
+
 ## Objective
 In this repo we will build a multivariate time series model using different machine/deep learning techniques to forecast multiple products in different stores. 
 
