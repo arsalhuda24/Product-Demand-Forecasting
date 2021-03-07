@@ -18,4 +18,5 @@ The data used here is taken from Kaggle's Store Item Demand Forecasting Challeng
 
 ## Modeling 
 ### 1) LSTM-Autoencoder 
+
 ![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/LSTM-autoencoder.png)
