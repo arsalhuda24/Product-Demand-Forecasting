@@ -16,6 +16,13 @@ The data used here is taken from Kaggle's Store Item Demand Forecasting Challeng
 
 ![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/yearly_growth_store.png)
 
+
+## Data Preperation 
+### Sliding Window Methood
+
+...
+
+
 ## Modeling 
 ### 1) LSTM-Autoencoder 
 
