@@ -26,5 +26,6 @@ The data used here is taken from Kaggle's Store Item Demand Forecasting Challeng
 
 ## Modeling 
 ### 1) LSTM-Autoencoder 
+This is a self-supervised learning technique that can learn a compact representation of data. In this case LSTM network is organized into an encoder-decoder architecture which takes an input sequnce and encoded into a context vector (hidden and cell states). The decoder then takes this context vector as an input and produces an output sequence
 
 ![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/lstm_autoencoder.png)
