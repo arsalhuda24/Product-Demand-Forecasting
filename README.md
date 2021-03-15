@@ -20,7 +20,8 @@ The data used here is taken from Kaggle's Store Item Demand Forecasting Challeng
 ## Data Preperation 
 ### Sliding Window Methood
 
-...
+![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/sliding_window.png)
+
 
 
 ## Modeling 
