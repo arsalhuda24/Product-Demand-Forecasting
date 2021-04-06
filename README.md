@@ -1,4 +1,4 @@
-# Product Sale Forecasting 
+# Product Sales Forecasting 
 The goal of this proect is to build a Realtime multivariate sales forecasting model using deep learning techniques which can be deployed into production using MLOps infrastructure. This practice will help C-Level executives to initiate business strategies. 
 
 ![Model](https://github.com/arsalhuda24/Product-Demand-Forecasting/blob/main/model_deployment.png)
